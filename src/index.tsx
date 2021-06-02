@@ -2,7 +2,7 @@ import ReactDOM from "react-dom";
 import EventComponent from "./events-eg/EventComponent";
 // import Parent from "./props/Parent";
 import GuestList from "./state-eg/GuestList";
-import UserSearch from "./state-eg/UserSearch";
+import UserSearch from "./refs-eg/UserSearch";
 
 const App = () => {
   return (
